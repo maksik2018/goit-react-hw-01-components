@@ -1,0 +1,34 @@
+.profile {
+    margin: 20px;
+    padding: 15px;
+    width: 250px;
+    border: 1px dashed black;
+  }
+  .description {
+    width: 100%;
+  
+    text-align: center;
+  }
+
+  .avatar {
+    width: 100%;
+    display: block;
+    height: auto;
+  }
+  .stats {
+    list-style: none;
+    display: flex;
+    
+   
+  }
+
+  .item {
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .quantity {
+     /* padding-left: 10px; */
+     text-align: center;
+  }
