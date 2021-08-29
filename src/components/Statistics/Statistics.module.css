@@ -1,0 +1,17 @@
+.statisticsList {
+    list-style: none;
+    display: flex;
+  }
+  .title {
+    margin-top: 50px;
+    margin-left: 175px;
+  }
+  .item {
+    width: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    border: 1px dashed black;
+  }
